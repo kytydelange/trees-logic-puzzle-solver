@@ -1,5 +1,5 @@
 # trees-logic-puzzle-solver
-Solver for Katie_Wandering's Trees Logic Puzzles \
+GUI solver for Katie_Wandering's Trees Logic Puzzles using a backtracking algorithm \
 https://www.sporcle.com/user/Katie_Wandering/playlists/
 
 ### Usage (windows)
